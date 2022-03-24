@@ -1,4 +1,4 @@
-# ISTALAR O NODE NO SEU COMPUTADOR
+# INSTALAR O NODE NO SEU COMPUTADOR
 
 https://nodejs.org/en/download/
 
